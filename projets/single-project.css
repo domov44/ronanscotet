@@ -1,0 +1,143 @@
+.bloc-colonne .partie-image{
+    display: flex;
+    width: 60%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.single-project-img{
+    width:80%;
+}
+
+.keypoint{
+    display:flex;
+    flex-direction: row;
+    padding: 10% 0 0 0;
+    max-width: 1200px;
+    width: 80%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.projets-capture{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-items: center;
+  gap:20px;
+}
+
+.capture-projet-pc, .capture-projet-mobile{
+    border-radius: 8px;
+    border: 2px solid #fff;
+    max-width: 100%;
+}
+
+/* cadre */ 
+.cadre-personnel{
+    color:var(--couleur-trois);
+    font-size:22px;
+}
+
+/* année */
+.annee-2023 {
+    color:#c6a1ff;
+    font-size:80px;
+}
+
+.annee-2022 {
+    color:var(--couleur-secondaire);
+    font-size:80px;
+}
+
+
+.projets-info{
+    display:flex;
+    flex-direction: row;
+    padding: 10% 0 0 0;
+    max-width: 1200px;
+}
+
+.projets-info .colonne-1{
+    width:40%;
+    padding-right:30px;
+}
+
+.projets-info .colonne-2{
+    width:60%;
+    padding:2px 0px 2px 0px;
+}
+
+
+
+/* pastille */
+
+.couleur-pastille {
+    background : rgb(42 33 42);
+   padding : 5px 10px 5px 10px;
+   border-radius : 8px;
+   margin-right: 10px;
+  }
+  
+  .pastille-frontend {
+   color:#c6a1ff;
+  }
+
+  .pastille-seo {
+    color:var(--couleur-secondaire);
+   }
+
+   .pastille-backend {
+    color:#d5ff7f;
+   }
+
+   .pastille-ux{
+    color:#cd68ff;
+   }
+
+   .pastille-ui{
+    color:var(--couleur-secondaire);
+   }
+
+   .pastille-wordpress{
+    color:wheat;
+   }
+
+   .pastille-data{
+    color:wheat;
+   }
+
+
+   @media (max-width:800px){
+
+    .bloc-colonne{
+        gap:80px;
+    }
+
+    .single-project-img{
+        width:100%;
+    }
+    .keypoint{
+        flex-direction: column;
+        gap:20px;
+    }
+
+    .projets-info{
+        flex-direction: column;
+    }
+
+    .projets-info h2{
+        font-size:35px;
+    }
+
+    .projets-info .colonne-1, .projets-info .colonne-2{
+        width:100%;
+        padding:0;
+        margin:0;
+    }
+
+    .projets-capture{
+        flex-direction: column;
+      }
+}

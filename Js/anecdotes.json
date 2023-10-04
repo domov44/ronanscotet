@@ -1,0 +1,494 @@
+{
+    "anecdotes": [
+      {
+        "anecdote": "Je suis estonien",
+        "categorie": "Origine",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "Je suis finlandais",
+        "categorie": "Origine",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je suis islandais",
+        "categorie": "Origine",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je suis algérien",
+        "categorie": "Origine",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je suis allemand",
+        "categorie": "Origine",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je suis écossais",
+        "categorie": "Origine",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je suis ukrainien",
+        "categorie": "Origine",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je suis russe",
+        "categorie": "Origine",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je suis lituanien",
+        "categorie": "Origine",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je suis letton",
+        "categorie": "Origine",
+        "vrai": "non"
+      },
+      
+      
+
+      
+      {
+        "anecdote": "Je maitrise le HTML",
+        "categorie": "Développement",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "Je maitrise le HTML",
+        "categorie": "Développement",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "J'utilise souvent JavaScript natif",
+        "categorie": "Développement",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "J'aime bien gérer mon contenu en Json",
+        "categorie": "Développement",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "J'apprend en ce moment PHP et SQL",
+        "categorie": "Développement",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "Je maitrise bien React.js",
+        "categorie": "Développement",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je maitrise bien Vue.js",
+        "categorie": "Développement",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je maitrise bien le Python",
+        "categorie": "Développement",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je maitrise bien le C++",
+        "categorie": "Développement",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je code mon HTML en PUG",
+        "categorie": "Développement",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "J'ai toujours utilisé le language PHP",
+        "categorie": "Développement",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "J'utilise Sympfony pour mes projets",
+        "categorie": "Développement",
+        "vrai": "non"
+      },
+
+
+
+
+      {
+        "anecdote": "Je trouve que les CMS sont très utiles",
+        "categorie": "CMS",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "J'ai commencé mon premier site web avec un CMS",
+        "categorie": "CMS",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "Je travaille souvent sur avec un CMS",
+        "categorie": "CMS",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "Je travaille beaucoup avec Wordpress'",
+        "categorie": "CMS",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "J'utilises Wix",
+        "categorie": "CMS",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "J'utilises Shopify",
+        "categorie": "CMS",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je préfères Drupal à Wordpress",
+        "categorie": "CMS",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "J'utilises Webflow",
+        "categorie": "CMS",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je trouve que les CMS sont inutiles",
+        "categorie": "CMS",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "J'utilise les CMS uniquement par choix personnel",
+        "categorie": "CMS",
+        "vrai": "non"
+      },
+      
+
+
+
+      {
+        "anecdote": "Globalement je maitrise très bien Wordpress",
+        "categorie": "Wordpress",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "Je maitrise très bien le page builder Elementor",
+        "categorie": "Wordpress",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "Je maitrise très bien le page builder Divi",
+        "categorie": "Wordpress",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "Je maitrise bien le e-commerce avec Woocommerce",
+        "categorie": "Wordpress",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "Je maitrise bien la gestion d'espace membre",
+        "categorie": "Wordpress",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "En ce momemnt j'apprend à faire un thème custom Wordpress",
+        "categorie": "Wordpress",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "En ce momemnt j'apprend à utiliser les blocs Gutenberg",
+        "categorie": "Wordpress",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "J'ai déjà créé une boutique en ligne fonctionnelle sur Wordpress",
+        "categorie": "Wordpress",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "Je travaille avec Wordpress.org",
+        "categorie": "Wordpress",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "Je n'ai plus rien à apprendre sur Wordpress",
+        "categorie": "Wordpress",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je trouve que Wordpress est dépassé",
+        "categorie": "Wordpress",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je n'ai jamais réalisé de projet web sur Wordpress",
+        "categorie": "Wordpress",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je veux abandonner Wordpress pour passer sur Drupal",
+        "categorie": "Wordpress",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je veux abandonner Wordpress pour passer sur Webflow",
+        "categorie": "Wordpress",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je veux abandonner Wordpress pour passer sur Wix",
+        "categorie": "Wordpress",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je veux abandonner Wordpress pour passer sur Shopify",
+        "categorie": "Wordpress",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "J'utlise Wordpress que pour les sites d'articles",
+        "categorie": "Wordpress",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je travaille avec Wordpress.com",
+        "categorie": "Wordpress",
+        "vrai": "non"
+      },
+      
+
+
+
+
+
+      {
+        "anecdote": "Je connais bien le fonctionnement du SEO",
+        "categorie": "SEO",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "J'ai déjà mis en place de vraies stratégies SEO",
+        "categorie": "SEO",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "Pour ma veille SEO j'utilise Semrush",
+        "categorie": "SEO",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "Pour moi la Google Search Console est l'outil minimal pour le SEO",
+        "categorie": "SEO",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "Je considère le SEO comme une facette très importante d'un projet",
+        "categorie": "SEO",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "J'ai appris le SEO avec beaucoup de pratiques",
+        "categorie": "SEO",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "Pour moi SEA et SEO c'est la même stratégie",
+        "categorie": "SEO",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je pense que juste un bon SEO on-page fait l'affaire",
+        "categorie": "SEO",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je n'aime pas du tout faire du SEO",
+        "categorie": "SEO",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "J'ai appris le SEO uniquement grâce à la théorie",
+        "categorie": "SEO",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Selon moi le SEO n'est pas une priorité, ça passe en dernier",
+        "categorie": "SEO",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "J'esquive tant que je peux de faire de la veille concurentielle",
+        "categorie": "SEO",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je n'ai pas encore réalisé de projet concret avec du SEO",
+        "categorie": "SEO",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "En SEO j'encourage d'utiliser des listes payantes de backlinks",
+        "categorie": "SEO",
+        "vrai": "non"
+      },
+
+    
+      
+
+
+      
+
+
+
+      {
+        "anecdote": "J'ai une certaine préférence pour le dark thème",
+        "categorie": "Design",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "Je travaille mon design sur Figma",
+        "categorie": "Design",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "J'ai réalisé sur Genially des visuels de post ou d'articles",
+        "categorie": "Design",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "Je trouve que Figma est le meilleur outil de design",
+        "categorie": "Design",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "Selon moi le design n'est pas trop important",
+        "categorie": "Design",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Pour moi bonne fonctionnalité vaut toujours mieux qu'un beau design",
+        "categorie": "Design",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je choisis des templates toute faite",
+        "categorie": "Design",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je n'aime que coder, décider le design ne m'intéresse pas",
+        "categorie": "Design",
+        "vrai": "non"
+      },
+
+
+
+      
+      {
+        "anecdote": "J'ai une grande sensibilité pour l'expérience utilisateur",
+        "categorie": "UX-UI",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "En développement, je considère grandement l'expérience mobile",
+        "categorie": "UX-UI",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "En développement, je considère grandement l'expérience mobile",
+        "categorie": "UX-UI",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "J'apprécie proposer une interface propre et agréable dans mes projets",
+        "categorie": "UX-UI",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "Pour approfondir mes connaissances en UX/UI je regarde souvent BastiUI",
+        "categorie": "UX-UI",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "J'applique dès que je peux la loi d'espacement",
+        "categorie": "UX-UI",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "Pour moi UX et UI c'est la même chose",
+        "categorie": "UX-UI",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Dans mes projets je créé, mais l'UX et l'UI passe après",
+        "categorie": "UX-UI",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je ne tiens pas trop compte des retours utilisateurs qu'on me fait",
+        "categorie": "UX-UI",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Généralement je ne considère pas trop l'expérience sur mobile",
+        "categorie": "UX-UI",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Pour moi l'UX/UI c'est juste un peu de logique et sans plus",
+        "categorie": "UX-UI",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je veux faire de l'UX/UI exclusivement mon métier ",
+        "categorie": "UX-UI",
+        "vrai": "non"
+      },
+
+
+
+
+      {
+        "anecdote": "Je parle français",
+        "categorie": "Langues",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "Je parle russe",
+        "categorie": "Langues",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "Je parle anglais",
+        "categorie": "Langues",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "Je parle allemand",
+        "categorie": "Langues",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je parle estonien",
+        "categorie": "Langues",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je parle japonais",
+        "categorie": "Langues",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "Je parle espagnol",
+        "categorie": "Langues",
+        "vrai": "non"
+      }
+    ]
+}

@@ -1,0 +1,155 @@
+.container-3{
+    position: relative; 
+    display: flex;
+    flex-direction: column;
+}
+
+.liste{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+    grid-gap: 20px;
+    grid-row-gap: 80px;
+    width: 100%;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn-solo{
+  margin-top:100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.competence{
+    padding: 10% 0 10% 0;
+
+}
+
+.competence-item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    opacity: 0;
+    transform: translateY(100%);
+    transition: opacity 0.3s ease-out, transform 0.3s ease-out;
+}
+
+
+.competence-item.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.liste .nom {
+    color: white;
+    font-size: 22px;
+    font-family: var(--texte-font);
+    margin:0;
+  }
+
+.liste .logo {
+    width: 48px;
+    height: 48px;
+  }
+
+  .titre{
+    display: flex;
+    gap:10px;
+    align-items: center;
+  }
+
+  .couleur-pastille {
+    background : rgb(42 33 42);
+   padding : 5px 10px 5px 10px;
+   border-radius : 8px;
+   margin-right: 10px;
+  }
+  
+  .pastille-frontend {
+   color:#c6a1ff;
+  }
+
+  .pastille-seo {
+    color:var(--couleur-secondaire);
+   }
+
+   .pastille-backend {
+    color:#d5ff7f;
+   }
+
+   .pastille-débutant{
+    color:#fff;
+    border: 1px solid;
+   }
+
+   .pastille-maitrisé{
+    color:#ffc151;
+    border: 1px solid;
+   }
+
+   .pastille-intermédiaire{
+    color:#ffe2ad;
+    border: 1px solid;
+   }
+
+   .pastille-expert{
+    color:#ff6d74;
+    border: 1px solid;
+   }
+
+   .pastille-ux{
+    color:#cd68ff;
+   }
+
+   .pastille-ui{
+    color:var(--couleur-secondaire);
+   }
+
+   .pastille-visuel{
+    color:wheat;
+   }
+
+   .pastille-cms{
+    color:#ff9a9a;;
+   }
+
+   .pastille-serveur{
+    color:wheat;
+   }
+
+   .pastille-data{
+    color:wheat;
+   }
+  
+
+   
+
+
+
+@media (max-width:851.20px){
+
+  .liste{
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+  
+  .pastille-débutant{
+    display: none;
+   }
+    
+   .pastille-maitrisé{
+    display: none;
+   }
+
+   .pastille-intermédiaire{
+    display: none;
+   }
+
+   .pastille-expert{
+    display: none;
+   }
+}
+

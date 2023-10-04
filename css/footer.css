@@ -1,0 +1,43 @@
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    padding:15px;
+    gap: 15px;
+}
+
+.footer .colonne-1, .footer .colonne-2{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:20px;
+}
+
+.heart-icon:before {
+    content: "\2764";
+    color: red;
+}
+
+.star-icon:before {
+    content: "\01F4A1";
+}
+
+
+#icon-alternate:hover + .heart-icon:before {
+    content: "\2606";
+}
+
+  
+
+/* reponsive */
+@media (max-width:800px){
+    .footer{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .footer .colonne-1, .footer .colonne-2{
+        width: 100%;
+}
+}

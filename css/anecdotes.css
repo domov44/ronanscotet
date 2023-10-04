@@ -1,0 +1,86 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    width: 100%;
+    max-width: 1200px;
+    opacity: 0;
+    transform: translateY(100%);
+    transition: opacity 0.3s ease-out, transform 0.5s ease-out;
+    padding-bottom: 30px;
+  }
+
+  .grid-container.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .anecdote {
+    background : rgb(42 33 42);
+    padding : 10px 18px 10px 18px;
+    border-radius : 8px;
+    margin-right: 10px;
+    cursor:pointer;
+    border: 2px solid rgb(42 33 42);
+    transition:0.3s;
+  }
+
+  .anecdote:hover {
+    transform: translateY(-10%);
+  }
+
+  .anecdote:active {
+    transform: translateY(0%) scale(0.98);
+  }
+
+
+  /* catégorie des anecdotes */
+  .anecdote .categorie{
+   width: fit-content;
+   color:#c6a1ff;
+   font-size:16px;
+  }
+
+  .anecdote .categorie-design{
+    color:darkmagenta;
+  }
+
+  .anecdote .categorie-langues{
+    color:aquamarine;
+  }
+
+  .anecdote .categorie-ux-ui{
+    color:coral;
+  }
+
+  .anecdote .categorie-développement{
+    color:crimson;
+  }
+
+  .anecdote .categorie-seo{
+    color:lightgreen;
+  }
+
+  .anecdote .categorie-wordpress{
+    color:cornflowerblue;
+  }
+
+  .anecdote .categorie-cms{
+    color:indianred;
+  }
+
+  .anecdote p{
+    font-size: 25px;
+    margin:0;
+  }
+
+  @media (max-width:1025px){
+    .grid-container{
+     display: flex;
+     flex-direction: column;
+ }
+}
+
+
+
+
