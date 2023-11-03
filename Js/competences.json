@@ -36,11 +36,25 @@
         "altLogoTech": "logo Javascript"
       },
       {
-        "tech-name": "React, Node.js",
+        "tech-name": "React js",
         "categorie": ["Frontend", "Backend"],
         "maitrise": ["Intermédiaire"],
         "logoTech": "/uploads/ImageCompetences/react.svg",
         "altLogoTech": "logo React"
+      },
+      {
+        "tech-name": "Vue, Vuetify",
+        "categorie": ["Frontend", "Backend"],
+        "maitrise": ["Intermédiaire"],
+        "logoTech": "/uploads/ImageCompetences/vue.svg",
+        "altLogoTech": "logo vue"
+      },
+      {
+        "tech-name": "NodeJS, Express",
+        "categorie": ["Frontend", "Backend"],
+        "maitrise": ["Intermédiaire"],
+        "logoTech": "/uploads/ImageCompetences/node.svg",
+        "altLogoTech": "logo node"
       },
       {
         "tech-name": "Figma, Canva",
