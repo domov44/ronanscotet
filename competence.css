@@ -61,15 +61,28 @@
     align-items: center;
   }
 
+  .titre p {
+    margin:5px;
+  }
+
+  .pastille{
+    margin-top:5px;
+    display: flex;
+    gap:10px;
+  }
+
   .couleur-pastille {
     background : rgb(42 33 42);
    padding : 5px 10px 5px 10px;
    border-radius : 8px;
-   margin-right: 10px;
   }
   
   .pastille-frontend {
    color:#c6a1ff;
+  }
+
+  .pastille-framework {
+    color:#e97cc1;
   }
 
   .pastille-seo {

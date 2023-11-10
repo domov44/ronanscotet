@@ -8,7 +8,7 @@
         "altLogoTech": "logo Wordpress"
       },
       {
-        "tech-name": "Search Console, Semrush",
+        "tech-name": "Search Console, Analytics",
         "categorie": ["SEO", "Data"],
         "maitrise": ["Expert"],
         "logoTech": "/uploads/ImageCompetences/google-search-console.svg",
@@ -36,25 +36,46 @@
         "altLogoTech": "logo Javascript"
       },
       {
+        "tech-name": "Dato",
+        "categorie": ["Backend", "CMS"],
+        "maitrise": ["Intermédiaire"],
+        "logoTech": "/uploads/ImageCompetences/dato.svg",
+        "altLogoTech": "logo dato"
+      },
+      {
         "tech-name": "React js",
-        "categorie": ["Frontend", "Backend"],
+        "categorie": ["Framework"],
         "maitrise": ["Intermédiaire"],
         "logoTech": "/uploads/ImageCompetences/react.svg",
         "altLogoTech": "logo React"
       },
       {
-        "tech-name": "Vue, Vuetify",
-        "categorie": ["Frontend", "Backend"],
+        "tech-name": "Vue",
+        "categorie": ["Framework"],
         "maitrise": ["Intermédiaire"],
         "logoTech": "/uploads/ImageCompetences/vue.svg",
         "altLogoTech": "logo vue"
       },
       {
-        "tech-name": "NodeJS, Express",
+        "tech-name": "NodeJS",
         "categorie": ["Frontend", "Backend"],
         "maitrise": ["Intermédiaire"],
         "logoTech": "/uploads/ImageCompetences/node.svg",
         "altLogoTech": "logo node"
+      },
+      {
+        "tech-name": "PHP",
+        "categorie": ["Backend"],
+        "maitrise": ["Intermédiaire"],
+        "logoTech": "/uploads/ImageCompetences/php.svg",
+        "altLogoTech": "logo PHP"
+      },
+      {
+        "tech-name": "MySQL",
+        "categorie": ["Backend"],
+        "maitrise": ["Intermédiaire"],
+        "logoTech": "/uploads/ImageCompetences/mysql.svg",
+        "altLogoTech": "logo PHP"
       },
       {
         "tech-name": "Figma, Canva",
@@ -69,13 +90,6 @@
         "maitrise": ["Intermédiaire"],
         "logoTech": "/uploads/ImageCompetences/illustrator.svg",
         "altLogoTech": "logo Adobe Illustrator"
-      },
-      {
-        "tech-name": "PHP, MySQL",
-        "categorie": ["Backend"],
-        "maitrise": ["Débutant"],
-        "logoTech": "/uploads/ImageCompetences/php.svg",
-        "altLogoTech": "logo PHP"
       },
       {
         "tech-name": "Theme Custom Wordpress",
