@@ -1,0 +1,310 @@
+/* personnage oeil */
+.box{
+    position:relative;
+    width: 400px;
+    height:500px;
+    border:2px solid white;
+    margin:40px;
+    box-shadow: 10px 10px 0 #A366FF;
+    border-radius:8px;
+    transition:0.3s;
+    background: #0B090B
+}
+
+
+
+.box:hover{
+    box-shadow: 5px 5px 0 #A366FF;
+    border-radius:10px;
+}
+
+
+    .bottom{
+        position: absolute;
+        bottom:0;
+        left:50%;
+        transform: translate(-50%);
+        width:320px;
+        height: 180px;
+        background:#A366FF;
+        border-top-left-radius: 150px;
+        border-top-right-radius: 150px;
+        z-index:9;
+         overflow: hidden;
+         animation: 0.8s linear corps;
+    }
+
+    .ecusson{
+        position: absolute;
+        display:block;
+        width:50px;
+        right:70px;
+        top:80px;
+        
+    }
+    
+    .neck{
+    position:absolute;
+    bottom:140px;
+    left:50%;
+    transform: translateX(-50%);
+    width: 70px;
+    height: 100px;
+    background:#ffcfcc;
+    z-index:10;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    animation: 1s linear cou;
+    }
+    
+     .neck::before{
+    content:'';
+    position:absolute;
+    top : 0;
+    left:0;
+    width: 70px;
+    height: 100px;
+    background:lineat-gradient(rgba(0,0,0,0.1), transparent);
+    }
+
+    .face{
+        position:absolute;
+        top:120px;
+        left:50%;
+        transform: translateX(-50%); 
+        width:160px;
+        height:180px;
+        background:#ffcfcc;
+        border-radius:50%;
+        border-top-left-radius: 40%;
+        border-top-right-radius: 40%;
+        z-index:12;
+        transition:0.3s;
+        animation: 1s linear visage;
+        }
+        
+        
+        .eyes{
+            position:absolute;
+            top:50px;
+            left:50%;
+            transform: translateX(-50%);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 65%;
+        }
+        
+        .eyes .eye{
+            position:relative;
+            width:45px;
+            width: 45px;
+            height: 45px;
+        }
+
+        .eyes .eye::before{
+            content:'';
+            position: absolute;
+            top : -8px;
+            left:0;
+            width: 100%;
+            height: 50%;
+            background: #8B4513;
+            border-radius:50%;
+            background:transparent;
+            box-shadow: 0 -5px 0 #503030;
+        }
+       
+       .eyes .eye i{
+           position:absolute;
+           display: inline-block;
+           bottom:0;
+           left:0;
+           width: 100%;
+           height: 100%;
+           display:flex;
+           justify-content: center;
+           align-items: center;
+           background:white;
+           border-radius:50%;
+       }
+       
+        .eyes .eye i::before{
+            content:'';
+            position:absolute;
+            width: 8px;
+            height: 8px;
+            background:black;
+            border-radius:50%;
+            box-shadow:0 0 0 5px #006600;
+            transform: translate(-10px, 2px);
+        }
+
+        .mouth{
+            position:absolute;
+            width: 60px;
+            bottom:30px;
+            left:50%;
+            transform: translateX(-50%);
+            width: 60px;
+            height:30px;
+            background: #ff4e57;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            border-bottom-left-radius: 30px;
+            border-bottom-right-radius: 30px;
+            box-shadow: inset 0 10px 0 rgba(0, 0, 0, 0.2);
+            transition:0.5s;
+        }
+        
+        .face:hover .mouth{
+            height: 15px;
+            width: 70px;
+            bottom:40px;
+            border-radius:10px;
+        }
+        
+        .face:active .mouth{
+            border-radius: 30px;
+            height:30px;
+            bottom:30px;
+            animation: cri 2s alternate infinite;
+        }
+
+        @keyframes cri {
+            from {
+             border-radius: 30px;
+                   height:30px;
+            }
+          
+            to {
+             border-radius: 30px;
+                   height:40px;
+                   width: 80px;
+                   bottom:30px;
+            }
+          }
+               
+               .face:hover{
+                   cursor:grab;
+               }
+               
+               .hair{
+                   position: absolute;
+                   bottom:42%;
+                   left:50%;
+                   transform: translateX(-50%);
+                   width: 200px;
+                   height:200px;
+                   background: #503030;
+                   border-top-left-radius: 200px;
+                   border-top-right-radius: 200px;
+                   animation: 1.3s linear cheveux;
+               }
+               
+                    
+               .face:active{
+                   top:130px;
+                   cursor:grabbing;
+               }
+
+               /* animation entrée */
+               @keyframes visage{
+                0%{
+                    height:150px;
+                    margin-top:40%;
+                
+                }
+
+                75%{
+                    height:200px;
+                    margin-top:0%;
+                }
+
+                85%{
+                    height:170px;
+                }
+
+                95%{
+                    height:190px;
+                }
+
+                100%{
+                    height:180px;
+     
+                }
+               }
+
+               @keyframes cou{
+                0%{
+                    height:150px;
+                    bottom:60px;
+                
+                }
+
+                75%{
+                    height:200px;
+                    bottom:140px;
+                }
+
+                85%{
+                    height:170px;
+                }
+
+                95%{
+                    height:190px;
+                }
+
+                100%{
+                    height:180px;
+     
+                }
+               }
+
+
+               @keyframes cheveux{
+                0%{
+                    height:150px;
+                    bottom:25%;
+                
+                }
+
+                75%{
+                    height:210px;
+                    bottom:42%;
+                }
+
+                85%{
+                    height:190px;
+                    bottom:40%;
+                }
+
+                95%{
+                    height:200px;
+                    bottom:41%;
+                }
+
+                100%{
+                    height:200px;
+                    bottom:42%;
+     
+                }
+               }
+
+               @keyframes corps{
+                0%{
+                    height:120px;
+                }
+
+                100%{
+                    height:180px;
+                    bottom:0;
+                }
+               }
+
+
+               @media (max-width:1060px) {
+                .box{
+                    transform:scale(0.7);
+                }
+            }

@@ -1,0 +1,23 @@
+
+  
+  .error-page {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    font-family: 'montserrat';
+    height: 100vh;
+  }
+  
+  .error-page h1 {
+    font-size: 5rem;
+    margin-bottom: 1rem;
+    color:var(--couleur-trois);
+  }
+  
+  .error-page  p {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }

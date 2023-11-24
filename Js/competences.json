@@ -1,0 +1,103 @@
+{
+    "competences": [
+      {
+        "tech-name": "Wordpress",
+        "categorie": ["CMS", "SEO","Frontend"],
+        "maitrise": ["Expert"],
+        "logoTech": "/uploads/ImageCompetences/wordpress.svg",
+        "altLogoTech": "logo Wordpress"
+      },
+      {
+        "tech-name": "Search Console, Analytics",
+        "categorie": ["SEO", "Data"],
+        "maitrise": ["Expert"],
+        "logoTech": "/uploads/ImageCompetences/google-search-console.svg",
+        "altLogoTech": "logo Google Search Console"
+      },
+      {
+        "tech-name": "Cpanel, FileZilla",
+        "categorie": ["Backend", "Serveur"],
+        "maitrise": ["Expert"],
+        "logoTech": "/uploads/ImageCompetences/cpanel.svg",
+        "altLogoTech": "logo Cpanel"
+      },
+      {
+        "tech-name": "HTML/CSS",
+        "categorie": ["Frontend", "SEO"],
+        "maitrise": ["Maitrisé"],
+        "logoTech": "/uploads/ImageCompetences/html.svg",
+        "altLogoTech": "logo HTML"
+      },
+      {
+        "tech-name": "JavaScript, Json",
+        "categorie": ["Frontend", "Backend"],
+        "maitrise": ["Intermédiaire"],
+        "logoTech": "/uploads/ImageCompetences/javascript.svg",
+        "altLogoTech": "logo Javascript"
+      },
+      {
+        "tech-name": "Dato",
+        "categorie": ["Backend", "CMS"],
+        "maitrise": ["Intermédiaire"],
+        "logoTech": "/uploads/ImageCompetences/dato.svg",
+        "altLogoTech": "logo dato"
+      },
+      {
+        "tech-name": "React js",
+        "categorie": ["Framework"],
+        "maitrise": ["Intermédiaire"],
+        "logoTech": "/uploads/ImageCompetences/react.svg",
+        "altLogoTech": "logo React"
+      },
+      {
+        "tech-name": "Vue",
+        "categorie": ["Framework"],
+        "maitrise": ["Intermédiaire"],
+        "logoTech": "/uploads/ImageCompetences/vue.svg",
+        "altLogoTech": "logo vue"
+      },
+      {
+        "tech-name": "NodeJS",
+        "categorie": ["Frontend", "Backend"],
+        "maitrise": ["Intermédiaire"],
+        "logoTech": "/uploads/ImageCompetences/node.svg",
+        "altLogoTech": "logo node"
+      },
+      {
+        "tech-name": "PHP",
+        "categorie": ["Backend"],
+        "maitrise": ["Intermédiaire"],
+        "logoTech": "/uploads/ImageCompetences/php.svg",
+        "altLogoTech": "logo PHP"
+      },
+      {
+        "tech-name": "MySQL",
+        "categorie": ["Backend"],
+        "maitrise": ["Intermédiaire"],
+        "logoTech": "/uploads/ImageCompetences/mysql.svg",
+        "altLogoTech": "logo PHP"
+      },
+      {
+        "tech-name": "Figma, Canva",
+        "categorie": ["UX", "UI", "Visuel"],
+        "maitrise": ["Intermédiaire"],
+        "logoTech": "/uploads/ImageCompetences/figma.svg",
+        "altLogoTech": "logo Figma"
+      },
+      {
+        "tech-name": "AI, Photoshop",
+        "categorie": ["Visuel"],
+        "maitrise": ["Intermédiaire"],
+        "logoTech": "/uploads/ImageCompetences/illustrator.svg",
+        "altLogoTech": "logo Adobe Illustrator"
+      },
+      {
+        "tech-name": "Theme Custom Wordpress",
+        "categorie": ["CMS", "Backend","Frontend"],
+        "maitrise": ["Débutant"],
+        "logoTech": "/uploads/ImageCompetences/wordpress-custom.svg",
+        "altLogoTech": "logo Wordpress artisanal"
+      }
+    ]
+  }
+  

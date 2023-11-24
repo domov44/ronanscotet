@@ -1,0 +1,120 @@
+/* Montserrat Regular */
+@font-face {
+    font-family: 'Montserrat';
+    src: url('Montserrat-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  /* Montserrat Regular Italic */
+  @font-face {
+    font-family: 'Montserrat';
+    src: url('Montserrat-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+  }
+  
+  /* Montserrat Bold */
+  @font-face {
+    font-family: 'Montserrat Bold';
+    src: url('Montserrat-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  /* Montserrat Bold Italic */
+  @font-face {
+    font-family: 'Montserrat Bold';
+    src: url('Montserrat-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+  }
+  
+  /* Montserrat SemiBold */
+  @font-face {
+    font-family: 'Montserrat SemiBold';
+    src: url('Montserrat-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  /* Montserrat SemiBold Italic */
+  @font-face {
+    font-family: 'Montserrat SemiBold';
+    src: url('Montserrat-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+  }
+  
+  /* Montserrat Medium */
+  @font-face {
+    font-family: 'Montserrat Medium';
+    src: url('Montserrat-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  /* Montserrat Medium Italic */
+  @font-face {
+    font-family: 'Montserrat Medium';
+    src: url('Montserrat-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+  }
+  
+  /* Montserrat Light */
+  @font-face {
+    font-family: 'Montserrat Light';
+    src: url('Montserrat-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  /* Montserrat Light Italic */
+  @font-face {
+    font-family: 'Montserrat Light';
+    src: url('Montserrat-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+  }
+
+
+/*               SYNE             */
+
+  /* Syne Regular */
+  @font-face {
+    font-family: 'Syne';
+    src: url('Syne-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  /* Syne semibold */
+  @font-face {
+    font-family: 'Syne SemiBold';
+    src: url('Syne-SemiBold.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  
+  /* Syne Bold */
+  @font-face {
+    font-family: 'Syne Bold';
+    src: url('Syne-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+  }
