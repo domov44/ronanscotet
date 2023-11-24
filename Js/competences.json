@@ -64,6 +64,13 @@
         "altLogoTech": "logo node"
       },
       {
+        "tech-name": "GraphQl",
+        "categorie": ["Backend"],
+        "maitrise": ["Intermédiaire"],
+        "logoTech": "/uploads/ImageCompetences/graphql.svg",
+        "altLogoTech": "logo grahpql"
+      },
+      {
         "tech-name": "PHP",
         "categorie": ["Backend"],
         "maitrise": ["Intermédiaire"],

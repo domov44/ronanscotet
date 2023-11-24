@@ -24,7 +24,7 @@
         "name": "Nexinu",
         "annee":"2023",
         "categorie": "SEO, framework",
-        "competences": ["Dato","Vue","NodeJS"],
+        "competences": ["Dato","Vue","NodeJS", "GraphQl"],
         "description":"Nexinu est un projet de blog sur les technologies immersives. J'utilise des technologies actuelles, tel que vue.js et Dato un headless cms.",
         "cadre": "Cours",
         "top3": "Oui",
