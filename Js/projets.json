@@ -35,7 +35,7 @@
         "gallerieImage": "/uploads/ImageProjets/nexinu.svg",
         "altImage": "image de prévisualisation du projet Nexinu",
         "lien": "https://www.ronanscotet.com/projets/nexinu",
-        "lien_site":"https://dainty-kashata-e17460.netlify.app/",
+        "lien_site":"https://nexinu.netlify.app/",
         "En_quelques_mots":"Dans ce projet tout le contenu du site est géré directement sur Dato, ensuite je récupère les données via des requêtes graphQL. Mise à part ça le projet est construit avec Nuxt, Vue, et Vuetify.",
         "capture_pc":"/uploads/ImageProjets/nexinu-capture-pc.png",
         "capture_mobile":"/uploads/ImageProjets/capture-nexinu-mobile.png"
