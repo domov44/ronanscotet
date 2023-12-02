@@ -69,6 +69,10 @@
     color:indianred;
   }
 
+  .anecdote .categorie-framework{
+    color:#E97CC1;
+  }
+
   .anecdote p{
     font-size: 25px;
     margin:0;

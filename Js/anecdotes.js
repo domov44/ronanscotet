@@ -2,7 +2,7 @@ const container = document.querySelector(".anecdotes");
 const actualiserBtn = document.querySelector("#actualiser-anecdote");
 
 function displayAnecdotes() {
-fetch("Js/anecdotes.json?v=1.1")
+fetch("Js/anecdotes.json?v=1.2")
 .then((response) => response.json())
 .then((data) => {
 const categories = [...new Set(data.anecdotes.map(anecdote => anecdote.categorie))];

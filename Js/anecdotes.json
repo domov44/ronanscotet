@@ -75,19 +75,9 @@
         "vrai": "oui"
       },
       {
-        "anecdote": "J'apprend en ce moment PHP et SQL",
+        "anecdote": "J'ai fait des projets PHP et MySQL",
         "categorie": "Développement",
         "vrai": "oui"
-      },
-      {
-        "anecdote": "Je maitrise bien React.js",
-        "categorie": "Développement",
-        "vrai": "non"
-      },
-      {
-        "anecdote": "Je maitrise bien Vue.js",
-        "categorie": "Développement",
-        "vrai": "non"
       },
       {
         "anecdote": "Je maitrise bien le Python",
@@ -105,16 +95,58 @@
         "vrai": "non"
       },
       {
-        "anecdote": "J'ai toujours utilisé le language PHP",
-        "categorie": "Développement",
-        "vrai": "non"
-      },
-      {
         "anecdote": "J'utilise Sympfony pour mes projets",
         "categorie": "Développement",
         "vrai": "non"
       },
 
+
+
+      {
+        "anecdote": "J'ai exploré ReactJS et j'apprécie son système",
+        "categorie": "Framework",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "J'ai fait des projets avec Vue.js",
+        "categorie": "Framework",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "J'ai déjà utilisé Vuetify sur au moins un projet",
+        "categorie": "Framework",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "J'utilise Express comme framework back-end principal",
+        "categorie": "Framework",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "J'ai déjà utilisé Angular plusieurs fois",
+        "categorie": "Framework",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "J'ai testé React et je déteste ce framework",
+        "categorie": "Framework",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "J'ai exploré Svelte et j'apprécie sa simplicité",
+        "categorie": "Framework",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "J'ai travaillé avec Ruby on Rails",
+        "categorie": "Framework",
+        "vrai": "non"
+      },
+      {
+        "anecdote": "J'utilise Django comme framework back-end principal",
+        "categorie": "Framework",
+        "vrai": "non"
+      },
 
 
 
@@ -134,7 +166,17 @@
         "vrai": "oui"
       },
       {
-        "anecdote": "Je travaille beaucoup avec Wordpress'",
+        "anecdote": "Je travaille beaucoup avec Wordpress",
+        "categorie": "CMS",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "J'aime bien utliser des CMS headless",
+        "categorie": "CMS",
+        "vrai": "oui"
+      },
+      {
+        "anecdote": "J'ai réalisé un blog avec DatoCMS avec des requêtes GraphQl",
         "categorie": "CMS",
         "vrai": "oui"
       },
