@@ -43,6 +43,13 @@
         "altLogoTech": "logo dato"
       },
       {
+        "tech-name": "Next/Nuxt",
+        "categorie": ["Framework"],
+        "maitrise": ["Intermédiaire"],
+        "logoTech": "/uploads/ImageCompetences/next.svg",
+        "altLogoTech": "logo Next"
+      },
+      {
         "tech-name": "React js",
         "categorie": ["Framework"],
         "maitrise": ["Intermédiaire"],
@@ -57,6 +64,13 @@
         "altLogoTech": "logo vue"
       },
       {
+        "tech-name": "Vuetify/MUI",
+        "categorie": ["Framework", "Frontend"],
+        "maitrise": ["Intermédiaire"],
+        "logoTech": "/uploads/ImageCompetences/vuetify.svg",
+        "altLogoTech": "logo Vuetify"
+      },
+      {
         "tech-name": "NodeJS",
         "categorie": ["Frontend", "Backend"],
         "maitrise": ["Intermédiaire"],
@@ -69,6 +83,34 @@
         "maitrise": ["Intermédiaire"],
         "logoTech": "/uploads/ImageCompetences/graphql.svg",
         "altLogoTech": "logo grahpql"
+      },
+      {
+        "tech-name": "Docker",
+        "categorie": ["Backend"],
+        "maitrise": ["Intermédiaire"],
+        "logoTech": "/uploads/ImageCompetences/docker.svg",
+        "altLogoTech": "logo Docker"
+      },
+      {
+        "tech-name": "AWS",
+        "categorie": ["Backend", "Serveur"],
+        "maitrise": ["Intermédiaire"],
+        "logoTech": "/uploads/ImageCompetences/aws.svg",
+        "altLogoTech": "logo AWS"
+      },
+      {
+        "tech-name": "Firebase",
+        "categorie": ["Backend", "Serveur"],
+        "maitrise": ["Intermédiaire"],
+        "logoTech": "/uploads/ImageCompetences/firebase.svg",
+        "altLogoTech": "logo Firebase"
+      },
+      {
+        "tech-name": "Python",
+        "categorie": ["Backend"],
+        "maitrise": ["Intermédiaire"],
+        "logoTech": "/uploads/ImageCompetences/python.svg",
+        "altLogoTech": "logo Python"
       },
       {
         "tech-name": "PHP",
